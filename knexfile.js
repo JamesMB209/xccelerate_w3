@@ -1,5 +1,5 @@
 // Update with your config settings.
-require("dotenv").config({path: '/home/james/Documents/Xccelerate/FTWD_Node_Weekly_02/Node/02_Weekly/.env'});
+require("dotenv").config();
 
 module.exports = {
 
