@@ -57,3 +57,5 @@ npm install jest supertest --save-dev
 Now you can begin to write tests within your testing folder, write unit test for your services and routers.
 
 Then do preform an integration test on the application as a whole.
+
+adding a commit message here to see if this works 
