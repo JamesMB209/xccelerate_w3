@@ -16,7 +16,7 @@ const knex = require("knex")(knexConfig);
 
 // Set up Express
 const app = express();
-const port = 8000;
+const port = 8080;
 app.engine('handlebars', engine({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 app.use(express.urlencoded({ extended: false }))
